@@ -1,7 +1,8 @@
 {
-	"name": "request_header",
+	"name": "request_header-fcc-api-projects-boilerplate",
+	"author": "Xavi Tost",
 	"version": "0.0.1",
-	"description": "API project for freeCodeCamp",
+	"description": "An API project for freeCodeCamp solved by Xavi Tost",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -18,7 +19,14 @@
 	"keywords": [
 		"node",
 		"hyperdev",
-		"express"
+		"express",
+		"freecodecamp",
+		"rest", 
+		"api",
+		"server",
+		"Date",
+		"Timestamp",
+		"microservice"
 	],
 	"license": "MIT"
 }
